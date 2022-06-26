@@ -152,6 +152,20 @@ nav ul li {
     margin-bottom: 50px;
 }
 
+.boxes p {
+    background: rgba(125, 125, 125);
+    text-align: center;
+}
+
+.boxes h2 {
+    background: rgba(125, 125, 125);
+    text-align: center;
+}
+
+a {
+   color: #ffffff; 
+}
+
 .box1 {
     height: 250px;
     width: 250px;
@@ -161,8 +175,8 @@ nav ul li {
     margin: 4px 4px;
     align-items: center;
     background-image: url(../Photos/hero-bg.jpg);
+    background-size: 250px 250px;
 }
-
 
 .box2 {
     height: 250px;
@@ -172,7 +186,8 @@ nav ul li {
     flex-direction: column;
     margin: 4px 4px;
     align-items: center;
-    background-color: #000000;
+    background-image: url(../Photos/screenshot\ istreamustream.jpg);
+    background-size: 250px 250px;
 }
 
 .box3 {
