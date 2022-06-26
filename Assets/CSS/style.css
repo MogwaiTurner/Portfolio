@@ -221,6 +221,10 @@ a {
     font-size: 25px;
 }
 
+.contact a {
+    color: #000000;
+}
+
 .footer {
     padding: 30px;
     clear: both;
